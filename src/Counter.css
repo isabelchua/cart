@@ -1,0 +1,12 @@
+.box {
+	display: flex;
+	align-content: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+button {
+	font-size: 3em;
+}
